@@ -1,0 +1,5 @@
+For this task, I used HackerRank as a coding practice platform and Google Workspace tools for collaboration. On HackerRank, I completed a beginner-level Python challenge, which helped me understand basic programming concepts such as input, output, variables, and logical thinking. Practising on such platforms improves problem-solving skills and builds confidence in coding, which is essential for computer science and technical subjects.
+
+For collaboration, I created a Digital Literacy Awareness Quiz using Google Forms and shared it with my classmates. Their responses were automatically collected in Google Sheets, making it easy to analyze answers in real time. This experience helped me understand how cloud-based tools enable teamwork, quick feedback, and organized data management.
+
+These tools will help me academically by improving my coding skills, encouraging collaborative learning, and making assignments more efficient. They also prepare me for future studies and workplaces where digital platforms and online collaboration are widely used.
