@@ -15,6 +15,7 @@ Project Overview: Digital Literacy Portfolio Student
 
 Task 1: Digital Literacy Infographic
 Created an infographic using Canva to explain digital literacy, safe internet practices, useful tools, and email etiquette.
+
 Task 2: Student Digital Portfolio
 Created and updated profiles on:
 - GitHub (Projects)
