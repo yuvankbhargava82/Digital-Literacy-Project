@@ -1,0 +1,3 @@
+**Reflection:**
+
+During my research, I was shocked by how easily even college students fall victim to UPI and online payment fraud. The most surprising aspect was that most attacks rely on social engineering rather than sophisticated hacking—fraudsters exploit trust, curiosity, or panic to steal money. This made me realize that awareness and careful habits are just as important as technical knowledge. As a result, I will never share OTPs or UPI PINs, even if someone pretends to be a bank official. Additionally, I will enable two-factor authentication on all my critical accounts and monitor transactions regularly. Developing these habits will help me stay secure online and prevent potential financial losses in the future.
